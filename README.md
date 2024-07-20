@@ -72,6 +72,8 @@ This project analyzes the EGX30 and EGX70 indices from January 1, 2020, to July 
      - **Zero Kurtosis (Mesokurtic)**: Distribution close to normal.
 
 ## Visualizations and Analysis
+![EGX30 and EGX70 Analysis](DashBoard_1.png)
+![EGX30 and EGX70 Analysis](DashBoard_2.png)
 ### EGX30
 - **Mean Change**: 0.08%
 - **Standard Deviation**: 0.015
@@ -94,7 +96,3 @@ The EGX30 index, which tracks the performance of the top 30 companies in terms o
 
 ### EGX70
 The EGX70 index, representing 70 small and medium-cap companies, displays a higher mean daily return and slightly higher volatility compared to EGX30. The risk/return ratio suggests that the returns justify the associated risks. The kurtosis value is lower than EGX30, indicating fewer extreme return events. The EGX70 offers a broader view of the market, including smaller companies not captured by EGX30.
-## Visualizations
-
-![EGX30 and EGX70 Analysis](DashBoard_1.png)
-![EGX30 and EGX70 Analysis](DashBoard_2.png)
