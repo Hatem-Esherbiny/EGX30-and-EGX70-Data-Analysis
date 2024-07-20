@@ -41,5 +41,5 @@ This project analyzes the EGX30 and EGX70 indices from January 1, 2020, to July 
 
 ## Visualizations
 
-![EGX30 and EGX70 Analysis](path/to/your/image1.png)
-![EGX30 and EGX70 Analysis](path/to/your/image2.png)
+![EGX30 and EGX70 Analysis](DashBoard_1.png)
+![EGX30 and EGX70 Analysis](DashBoard_2.png)
